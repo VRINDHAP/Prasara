@@ -87,7 +87,17 @@
   .mobile-menu-toggle {
     display: block;
   }
+  .imagelogo{
   
+  height:12vh;
+  width:11vw;
+  margin-right: 0px !important;
+}
+.brand{
+  display: flex;
+  align-items: center;
+  gap: 1px;
+}
   .navbar__links {
     display: none;
     flex-direction: column;
