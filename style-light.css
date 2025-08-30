@@ -64,7 +64,17 @@
   z-index: 1001;
   position: relative;
 }
-
+.imagelogo{
+  
+  height:12vh;
+  width:8vw;
+  margin-right: 0px !important;
+}
+.brand{
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
 .navbar__links {
   display: flex;
   gap: 30px;
