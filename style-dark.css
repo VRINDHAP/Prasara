@@ -92,7 +92,7 @@
 .imagelogo{
   
   height:12vh;
-  width:11vw;
+  width:16vw;
   margin-right: 0px !important;
 }
 .brand{
@@ -192,9 +192,14 @@
   }
   .imagelogo{
   
-  height:10vh;
-  width:12vw;
+  height:12vh;
+  width:16vw;
   margin-right: 0px !important;
+}
+.brand{
+  display: flex;
+  align-items: center;
+  gap: 1px;
 }
 
   .navbar__title {
